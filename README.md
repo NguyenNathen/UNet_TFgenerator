@@ -5,4 +5,4 @@ Thus, I have decided to create my own UNet model for easy use, with the goal of 
 can be created for different instances. 
 
 
-![](https://github.com/NguyenNathen/UNet_generator/blob/main/images/unet_simple.png)Image created in PlotNeuralNetwork: https://github.com/HarisIqbal88/PlotNeuralNet
+![](https://github.com/NguyenNathen/UNet_generator/blob/main/images/simple_unet.png)Image created in PlotNeuralNetwork: https://github.com/HarisIqbal88/PlotNeuralNet
